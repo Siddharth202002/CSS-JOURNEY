@@ -1,0 +1,52 @@
+/* .sub:hover{
+    padding: 10px;
+    background-color: #000000;
+    color: #f0f8ff;
+} */
+/* body{
+    border: 2px solid black;
+    width: 500px;
+} */
+/* .sub{
+   width: 50px;
+   margin: auto;
+   display: block;
+} */
+
+/* focus  */
+ /* .text:focus{
+    background-color: #000000;
+    color: #00ffff;
+
+ } */
+  /* link */
+  /* .visited:link{
+    background-color: #000000;
+    color: #ffe4c4;
+  }
+
+  /* visited  */
+/* .visited:visited{
+    background-color: #ff0000;
+    color: #7fffd4;
+    
+
+
+}
+.visited:active{
+    background-color: #0000ff88;
+    color: #f0f8ff;
+} */ */
+/* h2:first-child{
+    background-color: #ffff00;
+     
+}
+p:first-child{
+    background-color: yellow;
+} */
+
+
+p:nth-child(even){
+    background-color: yellow;
+
+}

@@ -1,0 +1,13 @@
+.main{
+    border: 2px solid black;
+    height: 200px;
+    overflow: auto;
+}
+p{
+    color: red;
+}
+.heading{
+    margin: auto;
+    border: 2px solid red;
+    width: 180px;
+}

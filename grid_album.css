@@ -1,0 +1,36 @@
+.box{
+    /* height: 200px;   */
+     /* width: 200px; */
+    border: 2px solid black;
+    
+   
+    
+}
+.box1{
+    background-color: red;
+    overflow: hidden;
+    grid-row-start: 1;
+    grid-row-end: 3;
+
+    
+    
+}
+.box2{
+    background-color: blue; 
+    grid-column-start:2 ;
+    grid-column-end:4 ;
+    
+   
+
+}
+.box3{
+    background-color: green;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: 500px 200px 200px;
+    height: 1000px;
+    
+    
+}

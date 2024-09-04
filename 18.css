@@ -1,0 +1,46 @@
+body{
+    background-color: #ff0000;
+
+}
+div{
+    font-size: x-large;
+    text-align: center;
+    
+}
+div::after{
+    content: "welcome to the home page";
+}
+@media ( width<=768px ){
+    body{
+        background-color: #00ffff;
+    }
+    div::after{
+        content: "small";
+
+    }
+}
+@media (768px<width<900px){
+    body{
+        background-color: #eeff00;
+    }
+    div::after{
+        content: "medium ";
+
+    }
+}
+
+
+@media (width>=900px){
+    body{
+        background-color: #0000ff;
+    }
+    div::after{
+        content: "Wao its working";
+    }
+    div{
+        font-size: xx-large;
+       
+    }
+
+
+}

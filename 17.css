@@ -1,0 +1,42 @@
+.box{
+    height: 150px;
+    width:150px;
+    background-color: #000000;
+    animation-name: example1;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    position: relative;
+    /* animation-iteration-count: 2;
+    animation-direction:alternate-reverse;
+    animation-timing-function: ease-in; */
+    animation-fill-mode: both;
+}
+/* @keyframes example {
+    from{
+        background-color: #0000ff;
+    }
+    to{
+        background-color: #ffff00;
+    }
+    
+} */
+
+@keyframes example1{
+    0%{
+        top:0px;left:0px;
+    }
+    25%{
+        top:0px;left:100px;
+    }
+    50%{
+        top:100px;left:100px;
+    }
+    75%{
+        left: 0px;top:100px;
+    }
+    100%{
+        top:0px;left:0px;
+    }
+
+} 
+    

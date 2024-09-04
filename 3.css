@@ -1,0 +1,30 @@
+/* universal selector */
+/* *{
+    margin: 0;
+    padding: 0;
+   
+} */
+
+/* element selector */
+/* h1{
+    color: gray;
+    background-color: black;
+} */
+
+/* class slector */
+
+/* .heading{
+    color: blue;
+    background-color: aqua;
+} */
+
+/* id selector */
+/* #para1 { 
+    color: brown;
+
+} */
+
+/* selector list */
+/* .haading,#para1{
+    color: aquamarine;
+} */

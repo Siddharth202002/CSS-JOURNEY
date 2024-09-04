@@ -1,0 +1,18 @@
+/* p::first-line{
+    background-color: #ffff00;
+} */
+
+/* P::first-letter{
+    background-color: #0000ff;
+} */
+ /* p::before{
+    content: "- hellow my name is siddharth";
+ } */
+  /* p::selection{
+    background-color: #0000ff;
+  } */
+
+  /* marker is used in the list */
+   /* p::marker{
+    background-color: #ffff00;
+   } */

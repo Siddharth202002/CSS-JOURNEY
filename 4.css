@@ -1,0 +1,32 @@
+/* decendent selector */
+/* h1 p{
+    color: antiquewhite;
+    background-color: black;
+} */
+
+/* child selector */
+/* h1>p{
+    color: brown;
+    background-color: red;
+} */
+
+/* adjacent sibling selector */
+/* h1+h2{
+    color: blue;
+} */
+
+/*   general sibling selector */
+/* h1~h2{
+    color: blue;
+} */
+
+/* attribute selector */
+/* [alt="prosche"]{
+    color: blue;
+    background-color: #808080;
+} */
+
+/* attribute value selector */
+[ alt~="prosche1"]{
+    color: brown;
+}

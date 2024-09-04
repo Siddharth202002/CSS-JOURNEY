@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+}
+.heading{
+    color: #7fffd4;
+    /* display: inline;*/
+
+} 
+.para{
+    color: #0000ff;
+    /* display: inline-block; */
+    width: 200px;
+    height: 100px;
+    overflow: hidden;
+    border: 2px solid #663399;
+    margin: auto;
+}
+body{
+    border: 2px solid red;
+}

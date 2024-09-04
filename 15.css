@@ -1,0 +1,22 @@
+/* linear gradient   */
+/* div{
+    
+    height: 500px;
+    
+    
+    background-image: linear-gradient(to right,yellow,orange);
+} */
+
+/* radial gradient  */
+
+/* div{
+    height: 500px;
+    background-image: repeating-radial-gradient(yellow 10%,orange 20%,blue 30%);
+} */
+
+/* conic gradient */
+/* div{
+    height: 500px;
+    background-image: conic-gradient(red 180deg,yellow,blue);
+} */
+

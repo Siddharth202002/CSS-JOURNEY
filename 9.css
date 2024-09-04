@@ -1,0 +1,18 @@
+.para{
+    color: hsl(180, 100%, 50%);
+    background-color: #000000;
+    text-align: justify;
+    letter-spacing: 5px;
+    line-height: 20px;
+    word-spacing: 10px;
+}
+.heading{
+    text-align: justify;
+    direction: ltr;
+    text-transform: capitalize;
+    text-indent: 200px;
+}
+.google{
+    text-decoration:none;
+
+}

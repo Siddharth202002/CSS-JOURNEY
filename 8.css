@@ -1,0 +1,23 @@
+.para{
+    border: 2px solid black;
+    padding: 10px 5px;
+    background-color: #0000ff;
+    font-family: "Poppins", sans-serif;
+
+}
+.margin{
+    border: 2px solid black;
+    margin: auto;
+    width: 200px;
+    background-color: #00ffff;
+    font-family: "Poppins", sans-serif;
+    
+}
+body{
+    border: 2px solid black;
+    background-image: url("https://images.pexels.com/photos/27008964/pexels-photo-27008964/free-photo-of-a-tree-is-sitting-on-the-shore-of-a-lake.jpeg?auto=compress&cs=tinysrgb&w=400&lazy=load" );
+    
+    
+
+   
+}

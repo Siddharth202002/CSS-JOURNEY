@@ -1,0 +1,32 @@
+.para{
+    color: #00ffff;
+    border: 2px solid red;
+    /* max-width: 200px;
+    max-height: 200px; */
+    /* overflow: hidden; */
+    box-sizing: border-box;
+    background-color: #0000ff;
+}
+body{
+    background-color: #000000;
+}
+.div1{
+    color: #0000ff;
+    height: 100px;
+    width: 100px;
+    border: 2px solid salmon;
+    margin: 10px;
+    
+    box-sizing: border-box;
+}
+.div2{
+    color: #00ffff;
+    height: 100px;
+    width: 100px;
+    border: 2px solid salmon;
+    margin:10px;
+    padding: 10px;
+    box-sizing: border-box;
+
+    
+}
